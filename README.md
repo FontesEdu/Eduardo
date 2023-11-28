@@ -1,11 +1,7 @@
-## Olá, seja muito bem-vindo! Prazer, José Eduardo. Sou programador back-end com habilidades aplicáveis também no Front!
+## Olá, seja muito bem-vindo! Prazer, José Eduardo. Sou aluno de programação!
 
-- Paginas Web
-- Web srcaping
-- Desenvolvimento da aplicações
-- Ánalise de dados
-- Consumo de API
-- integração com banco de dados
+- Javascript
+- Python
 
 
 <div style="display: inline_block"><br>
